@@ -1,0 +1,33 @@
+body {
+    font-family: 'Pushster', cursive;
+    background: #E2E8DD;
+}
+h2, p {
+    font-size: 48px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: rgb(21, 21, 22);
+    color: rgb(3, 3, 39);
+    background-color: darkkhaki;
+    background-size: 100%;
+    border-radius: 12px;
+}
+.main_div {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 22px;
+    color: rgb(41, 41, 41);
+    background-color: white;
+    text-align: center;
+    height: 5%;
+    text-shadow: 2px 2px rgb(170, 169, 169);
+}
